@@ -32,7 +32,7 @@ HTTP response status codes are issued by a server in response to a client's requ
     504 Gateway Timeout: The server, while acting as a gateway or proxy, did not receive a timely response from an upstream server.
 These codes help communicate the result of the HTTP request and are important for both client-side and server-side error handling.
 
-## requests Methods and their Functions
+## Requests Methods and their Functions
     HTTP request methods are used to specify the desired action to be performed on a given resource. Here are the five primary HTTP request methods and their functions:
 
 1. GET
